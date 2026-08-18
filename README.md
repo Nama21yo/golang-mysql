@@ -24,10 +24,10 @@ After installing Go , you should run the following commands to experience this p
 
 ```cmd
 # download the starter code
-git clone https://github.com/Kivanc10/golang-rest-api-with-mysql.git
+git clone https://github.com/Nama21yo/golang-mysql.git
 
 # open the code
-cd golang-rest-api-with-mysql
+cd golang-mysql
 
 # start the database server and run the code
 go run ./operate/operate.go
